@@ -38,7 +38,7 @@ class _FirstView extends StatelessWidget {
             ),
           );
         },
-        child: const Text('Launch Web View'),
+        child: const Text('manabaを開く'),
       ),
     );
   }
