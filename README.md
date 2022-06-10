@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+・アプリケーションの説明
+立命館大学の学生ポータルサイト「manaba」をログイン操作の手間なく閲覧できるアプリです。設定からID,パスワードを入力すると、以後自動でログインされます。
